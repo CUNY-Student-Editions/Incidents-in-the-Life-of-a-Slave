@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="69076f51-0dc4-4aa4-bfdb-0a1cf0ce665f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.32.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Incidents in the Life of a Slave Girl</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="cover.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="title.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="copyright.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Note on the Text</text>
+      </navLabel>
+      <content src="note.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Preface by the Author</text>
+      </navLabel>
+      <content src="preface.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Introduction by Lydia Maria Child</text>
+      </navLabel>
+      <content src="introduction.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>I.Childhood</text>
+      </navLabel>
+      <content src="chapter1.html#toc_4"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>II.The New Master and Mistress.</text>
+      </navLabel>
+      <content src="chapter2.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>III.The Slaves’ New Years Day.</text>
+      </navLabel>
+      <content src="chapter3.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>IV.The Slave Who Dared to Feel like a Man.</text>
+      </navLabel>
+      <content src="chapter4.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>V.The Trials of Girlhood.</text>
+      </navLabel>
+      <content src="chapter5.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>VI.The Jealous Mistress.</text>
+      </navLabel>
+      <content src="chapter6.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>VII.The Lover.</text>
+      </navLabel>
+      <content src="chapter7.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>VIII.What Slaves are Taught to Think of the North.</text>
+      </navLabel>
+      <content src="chapter8.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>IX.Sketches of Neighboring Slaveholders.</text>
+      </navLabel>
+      <content src="chapter9.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>X.A Perilous Passage in the Slave Girl’s Life.</text>
+      </navLabel>
+      <content src="chapter10.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>XI.The New Tie to Life.</text>
+      </navLabel>
+      <content src="chapter11.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>XII.Fear of Insurrection.</text>
+      </navLabel>
+      <content src="chapter12.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>XIII.The Church and Slavery.</text>
+      </navLabel>
+      <content src="chapter13.html"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>XIV.Another Link to Life.</text>
+      </navLabel>
+      <content src="chapter14.html"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>XV.Continued Persecutions.</text>
+      </navLabel>
+      <content src="chapter15.html"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>XVI.Scenes at the Plantation.</text>
+      </navLabel>
+      <content src="chapter16.html"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>XVII.The Flight.</text>
+      </navLabel>
+      <content src="chapter17.html"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>XVIII.Months of Peril.</text>
+      </navLabel>
+      <content src="chapter18.html"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>XIX.The Children Sold.</text>
+      </navLabel>
+      <content src="chapter19.html"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>XX.New Perils.</text>
+      </navLabel>
+      <content src="chapter20.html"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>XXI.The Loophole of Retreat.</text>
+      </navLabel>
+      <content src="chapter21.html"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>XXII.Christmas Festivities.</text>
+      </navLabel>
+      <content src="chapter22.html"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>XXIII.Still in Prison.</text>
+      </navLabel>
+      <content src="chapter23.html"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>XXIV: The Candidate for Congress.</text>
+      </navLabel>
+      <content src="chapter24.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>XXV: Comprtition is Cunning.</text>
+      </navLabel>
+      <content src="chapter25.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>XXVI: Important Era in my Brother's Life.</text>
+      </navLabel>
+      <content src="chapter26.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>XXVII: New Destination for the Children.</text>
+      </navLabel>
+      <content src="chapter27.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>XXVIII: Aunt Nancy.</text>
+      </navLabel>
+      <content src="chapter28.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>XXIX: Preparations for Escape.</text>
+      </navLabel>
+      <content src="chapter29.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>XXX: Northward Bound.</text>
+      </navLabel>
+      <content src="chapter30.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>XXXI: Incidents in Philadelphia.</text>
+      </navLabel>
+      <content src="chapter31.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>XXXII: The Meeting of Mother and Daughter.</text>
+      </navLabel>
+      <content src="chapter32.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>XXXIII: A Home Found.</text>
+      </navLabel>
+      <content src="chapter33.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>XXXIV. The Old Enemey Again.</text>
+      </navLabel>
+      <content src="chapter34.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>XXXV: Prejudice Against Color.</text>
+      </navLabel>
+      <content src="chapter35.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>XXXVI: The Heairbreadth Escape.</text>
+      </navLabel>
+      <content src="chapter36.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>XXXVII: A Visit to England.</text>
+      </navLabel>
+      <content src="chapter37.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>XXXVIII: Renewed Invitations to go South.</text>
+      </navLabel>
+      <content src="chapter38.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>XXXIX: The Confession.</text>
+      </navLabel>
+      <content src="chapter39.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>XL: The Fugitive Slave Law.</text>
+      </navLabel>
+      <content src="chapter40.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>XLI: Free at Last.</text>
+      </navLabel>
+      <content src="chapter41.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>Appendix.</text>
+      </navLabel>
+      <content src="appendix.html#toc_1"/>
+    </navPoint>
+  </navMap>
+</ncx>

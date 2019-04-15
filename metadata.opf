@@ -1,0 +1,122 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Incidents in the Life of a Slave Girl</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Jacobs, Harriet Ann">Harriet Ann Jacobs, (Linda Brent, pseydonym)</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">69076f51-0dc4-4aa4-bfdb-0a1cf0ce665f</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.32.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2018-09-28T04:00:00+00:00</dc:date>
+    <dc:publisher>Paul L. Hebert, The City University of New York</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">2ed04301-309a-4b27-a46c-b287b882e7e4</dc:identifier>
+    <meta content="{&quot;Harriet Ann Jacobs, (Linda Brent, pseydonym)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="Incidents in the Life of a Slave Girl"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="cover.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="title.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="copyright.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="note.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="preface.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="introduction.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="chapter1.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="chapter2.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="chapter3.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="chapter4.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="chapter5.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="chapter6.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="chapter7.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="chapter8.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="chapter9.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="chapter10.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="chapter11.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="chapter12.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="chapter13.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="chapter14.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="chapter15.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="chapter16.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="chapter17.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="chapter18.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="chapter19.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="chapter20.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="chapter21.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="chapter22.html" id="id30" media-type="application/xhtml+xml"/>
+    <item href="chapter23.html" id="id31" media-type="application/xhtml+xml"/>
+    <item href="chapter24.html" id="id32" media-type="application/xhtml+xml"/>
+    <item href="chapter25.html" id="id33" media-type="application/xhtml+xml"/>
+    <item href="chapter26.html" id="id34" media-type="application/xhtml+xml"/>
+    <item href="chapter27.html" id="id35" media-type="application/xhtml+xml"/>
+    <item href="chapter28.html" id="id36" media-type="application/xhtml+xml"/>
+    <item href="chapter29.html" id="id37" media-type="application/xhtml+xml"/>
+    <item href="chapter30.html" id="id38" media-type="application/xhtml+xml"/>
+    <item href="chapter31.html" id="id39" media-type="application/xhtml+xml"/>
+    <item href="chapter32.html" id="id40" media-type="application/xhtml+xml"/>
+    <item href="chapter33.html" id="id41" media-type="application/xhtml+xml"/>
+    <item href="chapter34.html" id="id42" media-type="application/xhtml+xml"/>
+    <item href="chapter35.html" id="id43" media-type="application/xhtml+xml"/>
+    <item href="chapter36.html" id="id44" media-type="application/xhtml+xml"/>
+    <item href="chapter37.html" id="id45" media-type="application/xhtml+xml"/>
+    <item href="chapter38.html" id="id46" media-type="application/xhtml+xml"/>
+    <item href="chapter39.html" id="id47" media-type="application/xhtml+xml"/>
+    <item href="chapter40.html" id="id48" media-type="application/xhtml+xml"/>
+    <item href="chapter41.html" id="id49" media-type="application/xhtml+xml"/>
+    <item href="appendix.html" id="id50" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="CUNY-imprint.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="Incidents-cover.jpg" id="id22" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+  </spine>
+  <guide/>
+</package>
